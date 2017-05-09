@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>14F2009</string>
+	<string>14F27</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.6.8</string>
+	<string>4.6.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>4.6.8</string>
+	<string>4.6.5</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -153,12 +153,10 @@
 				<false/>
 				<key>Enable Extended Functions</key>
 				<true/>
-				<key>Enable Sierra Caps Lock Fix</key>
-				<true/>
 				<key>FinerFnBrightnessControl</key>
-				<false/>
+				<true/>
 				<key>FinerFnVolumeControl</key>
-				<false/>
+				<true/>
 				<key>Make Caps Lock into key</key>
 				<integer>0</integer>
 				<key>Make ISO keypad key . to ,</key>
@@ -166,7 +164,7 @@
 				<key>Make Num Lock into Clear</key>
 				<false/>
 				<key>Make context menu key into key</key>
-				<integer>92</integer>
+				<integer>84</integer>
 				<key>Make delete key into cmd + backspace</key>
 				<false/>
 				<key>Make right alt into key</key>
@@ -178,7 +176,7 @@
 				<key>Num Lock enabled at boot</key>
 				<false/>
 				<key>Swap alt and windows key</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
@@ -191,7 +189,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © EMlyDinEsH (mg-dinesh@live.com) 2012-2016. All rights reserved.</string>
 	<key>OSBundleCompatibleVersion</key>
-	<string>4.6.8</string>
+	<string>4.6.5</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.iokit.IOHIDSystem</key>
@@ -205,7 +203,7 @@
 		<key>com.apple.kpi.unsupported</key>
 		<string>8.0.0</string>
 		<key>org.emlydinesh.driver.ApplePS2Controller</key>
-		<string>4.6.8</string>
+		<string>4.6.5</string>
 	</dict>
 	<key>OSBundleRequired</key>
 	<string>Console</string>
