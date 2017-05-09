@@ -146,7 +146,7 @@
 			<key>IOProviderClass</key>
 			<string>ApplePS2KeyboardDevice</string>
 			<key>Keyboard type (ID)</key>
-			<integer>0</integer>
+			<integer>48</integer>
 			<key>Preferences</key>
 			<dict>
 				<key>Disable Num Lock LED</key>
@@ -176,7 +176,7 @@
 				<key>Num Lock enabled at boot</key>
 				<false/>
 				<key>Swap alt and windows key</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
