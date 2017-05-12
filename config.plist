@@ -168,7 +168,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>keepsyms=1 -hbfx-patch-pci</string>
+		<string>keepsyms=1 -hbfx-patch-pci slide=0</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
